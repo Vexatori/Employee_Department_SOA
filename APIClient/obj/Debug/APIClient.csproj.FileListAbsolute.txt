@@ -1,0 +1,72 @@
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\APIClient.exe.config
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\APIClient.exe
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\APIClient.pdb
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient.csprojAssemblyReference.cache
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\MainWindow.g.cs
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\App.g.cs
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient_MarkupCompile.cache
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient_MarkupCompile.lref
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\MainWindow.baml
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient.g.resources
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient.Properties.Resources.resources
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient.csproj.GenerateResource.cache
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient.csproj.CoreCompileInputs.cache
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient.exe
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient.pdb
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\Newtonsoft.Json.dll
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\Newtonsoft.Json.pdb
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\Newtonsoft.Json.xml
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient.csproj.CopyComplete
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\AddWindow.g.cs
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\EditWindow.g.cs
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\AddWindow.baml
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\EditWindow.baml
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\EmployeeDepartmentWEB.dll
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\System.Web.Http.dll
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\System.Net.Http.Formatting.dll
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\System.Web.Http.WebHost.dll
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\EmployeeDepartmentWEB.pdb
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\EmployeeDepartmentWEB.dll.config
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\System.Web.Http.xml
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\System.Net.Http.Formatting.xml
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\System.Web.Http.WebHost.xml
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Проекты VS\Employee_Department_DB\APIClient\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+F:\Проекты VS\Employee_Department_DB\APIClient\obj\Debug\APIClient.exe.config
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\APIClient.exe.config
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\APIClient.exe
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\APIClient.pdb
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\EmployeeDepartmentWEB.dll
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\System.Web.Http.dll
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\EmployeeDepartmentWEB.pdb
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\EmployeeDepartmentWEB.dll.config
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\System.Web.Http.xml
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\ru\System.Web.Http.resources.dll
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient.exe.config
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\AddWindow.g.cs
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\EditWindow.g.cs
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient_MarkupCompile.cache
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient_MarkupCompile.lref
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\AddWindow.baml
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\EditWindow.baml
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient.g.resources
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient.Properties.Resources.resources
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient.csproj.CopyComplete
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient.exe
+C:\Users\Alex\Desktop\EmployeeDepartmentREST\APIClient\obj\Debug\APIClient.pdb

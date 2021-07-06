@@ -1,0 +1,42 @@
+﻿<Window x:Class="APIClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:APIClient"
+        mc:Ignorable="d"
+        Title="Employees/Departments" Height="600" Width="900" MinWidth="900" MinHeight="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="cbDepartments" 
+                  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="60,69,262,426" 
+                  Width="120" Height="35" SelectionChanged="CbDepartments_SelectionChanged">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock x:Name="tbDepartmentList" Text="{Binding Department_name}" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Label Content="Departments" HorizontalAlignment="Stretch" Margin="60,34,262,461" VerticalAlignment="Stretch" Width="120" Height="35" FontFamily="Segoe UI Black" FontSize="14"/>
+        <Label Content="Employees" HorizontalAlignment="Stretch" Margin="60,117,262,378" VerticalAlignment="Stretch" Width="120" Height="35" FontFamily="Segoe UI Black" FontSize="14"/>
+        <ListView x:Name="lvEmployees" HorizontalAlignment="Stretch" Height="293" Margin="60,152,60,85" VerticalAlignment="Stretch" MouseDoubleClick="LvEmployees_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="107"/>
+                    <GridViewColumn Header="Second Name" DisplayMemberBinding="{Binding Second_name}" Width="107"/>
+                    <GridViewColumn Header="Age" DisplayMemberBinding="{Binding Age}" Width="107"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="btnDeleteEmpl" Grid.Column="1" HorizontalAlignment="Stretch" Margin="70,245,262,261" VerticalAlignment="Stretch" FontFamily="Segoe UI Black" Foreground="White" Background="Black" Width="114" Height="58" Click="BtnDeleteEmpl_Click">
+            <TextBlock TextWrapping="Wrap" TextAlignment="Center">Delete employee</TextBlock>
+        </Button>
+        <Label Content="INFO: Double tap on an employee to change" Grid.Column="1" HorizontalAlignment="Stretch" Margin="171,71,10,420" VerticalAlignment="Stretch" Height="78" Width="265" FontWeight="Bold"/>
+        <Button x:Name="btnAddEmpl" Grid.Column="1" HorizontalAlignment="Stretch" Margin="70,324,262,187" VerticalAlignment="Stretch" FontFamily="Segoe UI Black" Foreground="White" Background="Black" Width="114" Height="58" Click="BtnAddEmpl_Click">
+            <TextBlock TextWrapping="Wrap" TextAlignment="Center"><Run Text="Add Employee"/></TextBlock>
+        </Button>
+    </Grid>
+</Window>
